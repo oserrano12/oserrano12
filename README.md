@@ -28,7 +28,7 @@
 
 ## 📂 Proyecto destacado  
 
-### 🛒 [Tienda Online](https://github.com/oserrano12/tienda-online)  
+### 🛒 [Tienda Online](https://github.com/oserrano12/tienda_online)  
 Proyecto universitario en desarrollo: una aplicación web de **e-commerce**, desplegada en [Vercel](https://tienda-online.vercel.app/).  
 - Desarrollo con HTML, CSS, JavaScript y SQL.  
 - Gestión de productos y carrito de compras.  
