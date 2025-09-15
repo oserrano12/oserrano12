@@ -49,5 +49,3 @@ Proyecto universitario en desarrollo: una aplicación web de **e-commerce**, des
 - Discord: **deadly04**  
 
 ---
-
-⭐ *“Siempre aprendiendo, siempre construyendo.”*  
