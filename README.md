@@ -7,8 +7,7 @@
 
 ## 👨‍🎓 Sobre mí  
 
-Soy **estudiante de Ingeniería de Sistemas ** en las  
-**Unidades Tecnológicas de Santander (UTS)** ![UTS Logo](https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo_de_las_Unidades_Tecnol%C3%B3gicas_de_Santander.svg)  
+Soy **estudiante de Ingeniería de Sistemas ** en las **Unidades Tecnológicas de Santander (UTS)**
 
 Mi formación combina tanto la parte **teórica** como la **práctica**, lo que me ha permitido desarrollarme en varias áreas de la informática:  
 
