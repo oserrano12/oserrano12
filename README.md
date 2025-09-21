@@ -58,13 +58,22 @@ Mi formación combina tanto la parte **teórica** como la **práctica**, lo que 
 
 ---
 
-## 📂 Proyecto destacado  
+## 📂 Proyectos en curso  
 
-### 🛒 [Tienda Online](https://github.com/oserrano12/tienda_online)  
-Proyecto universitario en desarrollo: una aplicación web de **e-commerce**, desplegada en [Vercel](https://tienda-online-dusky.vercel.app/).  
-- Desarrollo con HTML, CSS, JavaScript y SQL.  
+### 🛒 [Tienda Online](https://github.com/oserrano12/tienda-online)  
+Proyecto académico en desarrollo: aplicación web de **e-commerce**, desplegada en [Vercel](https://tienda-online-dusky.vercel.app/).  
 - Gestión de productos y carrito de compras.  
-- Enfoque en **práctica de bases de datos** y **arquitectura web básica**.  
+- Desarrollo con **HTML, CSS y JavaScript**.  
+- Enfoque en la práctica de arquitectura web básica y despliegue en la nube.  
+
+---
+
+### 🏋️ [App de Rutinas](https://github.com/JorgeJordyJaimes/rutina)  
+Proyecto en conjunto con [JorgeJordyJaimes](https://github.com/JorgeJordyJaimes), desplegado en [Vercel](https://rutina-beryl.vercel.app/).  
+- Aplicación para gestionar **rutinas de ejercicio personalizadas**.  
+- Desarrollo con **HTML, CSS, JavaScript y PostgreSQL**.  
+- Incluye el planteamiento de una **base de datos en PostgreSQL** para organizar rutinas, usuarios y progresos.  
+- Pensada para reforzar conocimientos en bases de datos, trabajo colaborativo y despliegue web.  
 
 ---
 
