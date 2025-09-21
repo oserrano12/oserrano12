@@ -50,7 +50,9 @@ Proyecto universitario en desarrollo: una aplicación web de **e-commerce**, des
 ## 📊 Estadísticas de GitHub  
 
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oserrano12&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oserrano12&layout=compact&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oserrano12&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oserrano12&theme=tokyonight)
+
 
 ---
 
