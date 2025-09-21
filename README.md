@@ -51,9 +51,6 @@ Proyecto universitario en desarrollo: una aplicación web de **e-commerce**, des
 
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oserrano12&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oserrano12&layout=compact&theme=tokyonight)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=oserrano12&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=oserrano12&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)  
-[![Oscar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oserrano12&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
 
