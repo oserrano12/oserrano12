@@ -5,6 +5,28 @@
 
 ---
 
+## 👨‍🎓 Sobre mí  
+
+Soy **estudiante de Ingeniería de Sistemas ** en las  
+**Unidades Tecnológicas de Santander (UTS)** ![UTS Logo](https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo_de_las_Unidades_Tecnol%C3%B3gicas_de_Santander.svg)  
+
+Mi formación combina tanto la parte **teórica** como la **práctica**, lo que me ha permitido desarrollarme en varias áreas de la informática:  
+
+- 🔹 Inicié con las bases de la **lógica de programación**, trabajando con pseudocódigo y diagramas de flujo para fortalecer el pensamiento algorítmico.  
+- 🔹 Me introduje en el mundo de la **electrónica digital y hardware**, comprendiendo cómo funcionan los circuitos lógicos, los microcontroladores y la arquitectura interna de los computadores.  
+- 🔹 He trabajado con **Java** en el paradigma de la programación orientada a objetos, aplicando conceptos de modelado y buenas prácticas en el desarrollo de software.  
+- 🔹 También exploré el diseño y la gestión de **bases de datos relacionales**, especialmente en **PostgreSQL** con **pgAdmin**, desde la creación de esquemas hasta la implementación de funciones y la administración de usuarios.  
+- 🔹 Actualmente profundizo en la **programación de dispositivos con C++**, el **funcionamiento de sistemas operativos** y las **estrategias de administración y seguridad en bases de datos**.  
+
+📌 **A futuro**, continuaré aprendiendo sobre:  
+- Desarrollo de **aplicaciones móviles y empresariales**  
+- **Ingeniería y calidad de software** aplicada a proyectos reales  
+- **Minería de datos y análisis a gran escala**  
+- **Seguridad informática y arquitectura de software**  
+- Nuevas tendencias en **tecnologías y metodologías de desarrollo**   
+
+---
+
 ## 🚀 Skills  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
