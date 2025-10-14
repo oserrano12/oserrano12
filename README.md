@@ -39,7 +39,7 @@
 
 ## 📂 Proyectos en curso  
 
-### 🛒 [Tienda Online](https://github.com/oserrano12/tienda-online)  
+### 🛒 [Tienda Online](https://github.com/oserrano12/tienda_online)  
 Proyecto académico en desarrollo: aplicación web de **e-commerce**, desplegada en [Vercel](https://tienda-online-dusky.vercel.app/).  
 - Gestión de productos y carrito de compras.  
 - Desarrollo con **HTML, CSS y JavaScript**.  
@@ -47,7 +47,7 @@ Proyecto académico en desarrollo: aplicación web de **e-commerce**, desplegada
 
 ---
 
-### 🏋️ [App de Rutinas](https://github.com/JorgeJordyJaimes/rutina)  
+### 🏋️ [App de Rutinas](https://github.com/oserrano12/rutina)  
 Proyecto en conjunto con [JorgeJordyJaimes](https://github.com/JorgeJordyJaimes), desplegado en [Vercel](https://rutina-beryl.vercel.app/).  
 - Aplicación para gestionar **rutinas de ejercicio personalizadas**.  
 - Desarrollo con **HTML, CSS, JavaScript y PostgreSQL**.  
