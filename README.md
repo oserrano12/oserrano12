@@ -2,7 +2,7 @@
 
 🎓 Estudiante de **Ingeniería de Sistemas** en las **Unidades Tecnológicas de Santander (UTS)**.  
 💻 Apasionado por el **desarrollo y diseño web**, bases de datos y creación de soluciones funcionales.  
-🚀 Estoy construyendo mi vida como **ingeniero de sistemas**, impulsado por proyectos reales y aprendizaje continuo.
+🚀 Construyendo mi vida como **ingeniero de sistemas**, impulsado por proyectos reales y aprendizaje continuo.
 
 ---
 
@@ -33,11 +33,10 @@
 
 - **Motores y Diseño de Bases de Datos:**  
   PostgreSQL (DML/DDL), funciones, procedimientos, auditoría y seguridad.
-- **Fundamentos de Programación Orientada a Objetos:**  
-  Uso de Java desde NetBeans.
+- **Fundamentos de POO con Java.**
 - **Diseño Web Avanzado:**  
   HTML, CSS, JavaScript, Tailwind, Bootstrap y hosting web.
-- **Programación de dispositivos en C++ con Tinkercad.**
+- **Programación de dispositivos con C++ en Tinkercad.**
 - **Certificado:** Solución de problemas mediante algoritmos.
 
 ---
@@ -45,63 +44,61 @@
 ## 🌐 Proyectos Reales — Desplegados en Vercel
 
 ### 🛒 🛍️ Tienda Online — E-commerce Académico
-📦 Gestión de productos + carrito de compras.  
+📦 Gestión de productos + carrito.  
 🛠️ HTML | CSS | JavaScript  
+
 🔗 **Demo:**  
-https://tienda-online-dusky.vercel.app/  
+<a href="https://tienda-online-dusky.vercel.app/" target="_blank" rel="noopener noreferrer">https://tienda-online-dusky.vercel.app/</a>  
+
 📁 **Repositorio:**  
-https://github.com/oserrano12/tienda_online
+<a href="https://github.com/oserrano12/tienda_online" target="_blank" rel="noopener noreferrer">https://github.com/oserrano12/tienda_online</a>
 
 ---
 
 ### ☕ Proyecto Final — Sabores Bucaramanga
-Web completa estilo cafetería (Diseño Web Avanzado).  
-💻 HTML | CSS | JavaScript | Tailwind  
-👥 Proyecto colaborativo académico.  
+Aplicación estilo cafetería.  
+💻 HTML | CSS | JS | Tailwind  
+👥 Proyecto colaborativo universitario.  
+
 🔗 **Demo:**  
-https://proyecto-final-one-snowy.vercel.app/  
+<a href="https://proyecto-final-one-snowy.vercel.app/" target="_blank" rel="noopener noreferrer">https://proyecto-final-one-snowy.vercel.app/</a>  
+
 📁 **Repositorio:**  
-https://github.com/oserrano12/proyecto-final
+<a href="https://github.com/oserrano12/proyecto-final" target="_blank" rel="noopener noreferrer">https://github.com/oserrano12/proyecto-final</a>
 
 ---
 
 ### ☕ Café Artesanal App (Versión preliminar)
 Primer prototipo del proyecto final.  
-🧠 Aplicación académica para práctica de interfaces y diseño.  
+
 🔗 **Demo:**  
-https://cafe-artesanal-app.vercel.app/  
+<a href="https://cafe-artesanal-app.vercel.app/" target="_blank" rel="noopener noreferrer">https://cafe-artesanal-app.vercel.app/</a>  
+
 📁 **Repositorio:**  
-https://github.com/oserrano12/cafe-artesanal-app
+<a href="https://github.com/oserrano12/cafe-artesanal-app" target="_blank" rel="noopener noreferrer">https://github.com/oserrano12/cafe-artesanal-app</a>
 
 ---
 
 ## 🔧 Entorno de Desarrollo
-- VS Code para desarrollo web.  
-- NetBeans para proyectos en Java.  
-- Git + GitHub para control de versiones.  
-- pgAdmin para gestión de bases de datos PostgreSQL.  
-- Linux como entorno de aprendizaje.  
-- Tinkercad para simulación electrónica con C++.
+- VS Code — desarrollo web  
+- NetBeans — Java / POO  
+- Git + GitHub — control de versiones  
+- pgAdmin — administración de PostgreSQL  
+- Linux — entorno de práctica  
+- Tinkercad — simulaciones con C++
 
 ---
 
 ## 📈 Objetivo Actual
-🔥 **Construir CRUDs en Java desde NetBeans**  
-- Conexión a bases de datos.  
-- Backend básico.  
-- Arquitectura MVC.  
-- Sistema de autenticación y sesiones.
-
----
-
-## 📊 Estadísticas de GitHub
-
-![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oserrano12&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oserrano12&layout=compact&theme=tokyonight&hide_border=true)
+🔥 **CRUDs en Java desde NetBeans**
+- Conexión a PostgreSQL
+- MVC
+- Sesiones y autentificación
+- API REST básico
 
 ---
 
 ## 📫 Contacto
-
-- **GitHub:** https://github.com/oserrano12  
+- **GitHub:**  
+<a href="https://github.com/oserrano12" target="_blank" rel="noopener noreferrer">https://github.com/oserrano12</a>  
 - **Discord:** **deadly04**
