@@ -124,7 +124,7 @@ https://github.com/oserrano12/tienda-barrio
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oserrano12&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=oserrano12&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oserrano12&theme=tokyonight&hide_border=true)
 
 ---
 
