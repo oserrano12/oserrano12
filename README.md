@@ -143,7 +143,7 @@ https://github.com/oserrano12/tienda-barrio
 - PostgreSQL avanzado
 - Arquitectura DAO / MVC
 - Buenas prácticas de seguridad
-- Preparación para interfaces gráficas (Swing)
+- Preparación para interfaces gráficas (JavaFX / Swing)
 - Introducción a APIs REST
 
 ---
@@ -153,7 +153,7 @@ https://github.com/oserrano12/tienda-barrio
 - [x] Fundamentos sólidos de Java
 - [x] Bases de datos relacionales
 - [x] CRUDs completos
-- [ ] Aplicación Java + Swing
+- [ ] Aplicación Java + JavaFX / Swing
 - [ ] API REST con Java
 - [ ] Autenticación y roles
 - [ ] Proyecto backend completo desplegable
