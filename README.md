@@ -1,46 +1,58 @@
-# Hola, soy Oscar Steven Serrano Jaimes 👋
+# Oscar Serrano
 
-**Estudiante de Ingeniería de Sistemas Informáticos**
+Estudiante de **Ingeniería de Sistemas** enfocado en el desarrollo web y el diseño de bases de datos relacionales. Interesado en la construcción de aplicaciones funcionales, escalables y orientadas a requerimientos reales.
 
-Soy un desarrollador de software con un fuerte enfoque en el **desarrollo web (Frontend)** y un sólido dominio en el **diseño y gestión de bases de datos**. A lo largo de mi formación integral en Desarrollo de Sistemas Informáticos, he consolidado habilidades analíticas y de ingeniería mediante el estudio de estructuras de datos, programación orientada a objetos (POO) y administración de servidores y redes. 
+---
 
-Me apasiona construir interfaces limpias y funcionales, respaldadas por un entendimiento claro de la lógica del backend y la seguridad de la información.
+### Perfil
 
-## 🚀 Sobre mí
+- Formación en **Ingeniería de Sistemas**.
+- Desarrollo frontend y full stack utilizando **Next.js**, **TypeScript** y **Tailwind CSS**.
+- Gestión, modelado y consumo de bases de datos relacionales con **PostgreSQL** mediante servicios como **Supabase** y **Neon**.
+- Experiencia previa en fundamentos de programación y lógica con **Java**, **JavaScript**, **HTML5** y **CSS3**.
 
-- 💻 **Enfoque principal:** Desarrollo Frontend (HTML, CSS, JS) con frameworks de utilidades y componentes, complementado con conocimientos sólidos de Backend y POO gracias a mi experiencia con Java.
-- 🗄️ **Bases de Datos:** Alto nivel de familiaridad con el ecosistema relacional (PostgreSQL, MySQL, MariaDB). Experiencia práctica en diseño estructural, administración mediante pgAdmin4 y aplicación de principios de encriptación de datos.
-- 🎓 **Conocimientos de Ingeniería:** Bases sólidas en áreas fundamentales como Programación Web, Redes de Computadores (simulación con Cisco Packet Tracer), Sistemas Operativos y Aplicaciones Móviles.
+---
 
-## 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
-**Frontend & Diseño Web:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+#### Lenguajes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-**Backend & Lenguajes Base:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- *Frameworks adicionales:* JavaFX
+#### Frameworks y Librerías
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Bases de Datos & Redes:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
-- *Herramientas de gestión:* pgAdmin4.
+#### Bases de Datos y Servicios Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon_Database-00E599?style=flat-square&logo=neon&logoColor=black)
 
-## 📂 Proyecto Destacado
+---
 
-- 💻 **[Proyecto Final](https://github.com/oserrano12/proyecto-final.git):** *(Reemplaza este texto con una breve línea sobre qué hace tu proyecto, por ejemplo: "Aplicación web desarrollada con Java y conexión a base de datos para la gestión de...")*
+### Proyectos Destacados
 
-## 📊 Estadísticas de GitHub
+| Proyecto | Tecnologías | Descripción | Enlace |
+| :--- | :--- | :--- | :--- |
+| **Catálogo Ropa Deportiva** | Next.js, TypeScript, Tailwind CSS, PostgreSQL | Plataforma web interactiva para catálogo de indumentaria deportiva en desarrollo. | [Repositorio](https://github.com/oserrano12/deportivos-pipe-catalogo) |
+| **Proyecto Diseño Web Avanzado** | HTML, CSS, JavaScript | Aplicación web enfocada en maquetación estructurada e interfaces interactivas. | [Repositorio](https://github.com/oserrano12/proyecto-final) |
+
+---
+
+### Métricas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oserrano12&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de Oscar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oserrano12&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oserrano12&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" height="150" />
 </div>
 
-## 📫 Cómo contactarme
+---
+
+### Contacto
 
 - **Discord:** `deadly04`
+- **GitHub:** [oserrano12](https://github.com/oserrano12)
