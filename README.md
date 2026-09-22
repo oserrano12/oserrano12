@@ -43,29 +43,6 @@ Estudiante de **Ingeniería de Sistemas** enfocado en el desarrollo web y el dis
 
 ---
 
-### Métricas de GitHub
-
-<div align="center">
-  <a href="https://github.com/oserrano12">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oserrano12&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&locale=es" alt="Estadísticas de GitHub" />
-  </a>
-  <a href="https://github.com/oserrano12">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oserrano12&layout=compact&theme=dark&hide_border=true&langs_count=8&locale=es" alt="Lenguajes más usados" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/oserrano12">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=oserrano12&theme=github-dark&hide_border=true&area=true&custom_title=Actividad%20en%20GitHub" alt="Gráfico de actividad de GitHub" />
-  </a>
-</div>
-
-> Si las tarjetas no aparecen inmediatamente, actualiza la página después de unos segundos: GitHub y los servicios de estadísticas almacenan las imágenes en caché.
-
----
-
 ### Contacto
 
 - **Discord:** `deadly04`
