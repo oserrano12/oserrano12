@@ -1,6 +1,6 @@
 # Oscar Serrano
 
-Estudiante de **Ingeniería de Sistemas** enfocado en el desarrollo web y el diseño de bases de datos relacionales. Interesado en la construcción de aplicaciones funcionales, escalables y orientadas a requerimientos reales.
+Estudiante de **Ingeniería de Sistemas** enfocado en el desarrollo web y el diseño de bases de datos relacionales. Interesado en la construcción de aplicaciones funcionales, escalables y orientadas a resolver problemas reales.
 
 ---
 
@@ -38,8 +38,8 @@ Estudiante de **Ingeniería de Sistemas** enfocado en el desarrollo web y el dis
 
 | Proyecto | Tecnologías | Descripción | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Catálogo Ropa Deportiva** | Next.js, TypeScript, Tailwind CSS, PostgreSQL | Plataforma web interactiva para catálogo de indumentaria deportiva en desarrollo. | [Repositorio](https://github.com/oserrano12/deportivos-pipe-catalogo) |
-| **Proyecto Diseño Web Avanzado** | HTML, CSS, JavaScript | Aplicación web enfocada en maquetación estructurada e interfaces interactivas. | [Repositorio](https://github.com/oserrano12/proyecto-final) |
+| **Catálogo Ropa Deportiva** | Next.js, TypeScript, Tailwind CSS, PostgreSQL | Plataforma web interactiva para catálogo de indumentaria deportiva en desarrollo. | [Repositorio](https://github.com/oserrano12) |
+| **Proyecto Diseño Web Avanzado** | HTML, CSS, JavaScript | Aplicación web enfocada en maquetación estructurada e interfaces interactivas. | [Repositorio](https://github.com/oserrano12) |
 
 ---
 
@@ -47,12 +47,22 @@ Estudiante de **Ingeniería de Sistemas** enfocado en el desarrollo web y el dis
 
 <div align="center">
   <a href="https://github.com/oserrano12">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oserrano12&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oserrano12&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&locale=es" alt="Estadísticas de GitHub" />
   </a>
   <a href="https://github.com/oserrano12">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oserrano12&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oserrano12&layout=compact&theme=dark&hide_border=true&langs_count=8&locale=es" alt="Lenguajes más usados" />
   </a>
 </div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/oserrano12">
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=oserrano12&theme=github-dark&hide_border=true&area=true&custom_title=Actividad%20en%20GitHub" alt="Gráfico de actividad de GitHub" />
+  </a>
+</div>
+
+> Si las tarjetas no aparecen inmediatamente, actualiza la página después de unos segundos: GitHub y los servicios de estadísticas almacenan las imágenes en caché.
 
 ---
 
