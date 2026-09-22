@@ -46,8 +46,12 @@ Estudiante de **Ingeniería de Sistemas** enfocado en el desarrollo web y el dis
 ### Métricas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oserrano12&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oserrano12&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" height="150" />
+  <a href="https://github.com/oserrano12">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oserrano12&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+  </a>
+  <a href="https://github.com/oserrano12">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oserrano12&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+  </a>
 </div>
 
 ---
