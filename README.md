@@ -1,49 +1,101 @@
-# Oscar Serrano
+<div align="center">
 
-Estudiante de **Ingeniería de Sistemas** enfocado en el desarrollo web y el diseño de bases de datos relacionales. Interesado en la construcción de aplicaciones funcionales, escalables y orientadas a resolver problemas reales.
+# ¡Hola! Soy Oscar Serrano 👋
+
+<!-- Animación de escritura dinámica -->
+<a href="https://github.com/oserrano12">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%F0%9F%8E%93;Desarrollador+Full+Stack+Jr+%F0%9F%92%BB;En+b%C3%BAsqueda+de+Pr%C3%A1cticas+Universitarias+%F0%9F%8E%AF;Apasionado+por+el+Gaming+%26+la+M%C3%BAsica+%F0%9F%8E%AE%F0%9F%8E%A7" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <b>Transformando ideas y lógica en aplicaciones web completas, escalables y orientadas al usuario.</b>
+</p>
+
+<!-- Insignias de estado y disponibilidad -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-Buscando%20Pr%C3%A1cticas%20Universitarias-10B981?style=for-the-badge&logo=target&logoColor=white" alt="Prácticas" />
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Colombia-F59E0B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Colombia" />
+  <img src="https://img.shields.io/badge/Enfoque-Full%20Stack%20%26%20SQL-6366F1?style=for-the-badge&logo=codeforces&logoColor=white" alt="Enfoque" />
+</p>
+
+</div>
 
 ---
 
-### Perfil
+### 👨‍💻 Sobre Mí
 
-- Formación en **Ingeniería de Sistemas**.
-- Desarrollo frontend y full stack utilizando **Next.js**, **TypeScript** y **Tailwind CSS**.
-- Gestión, modelado y consumo de bases de datos relacionales con **PostgreSQL** mediante servicios como **Supabase** y **Neon**.
-- Experiencia previa en fundamentos de programación y lógica con **Java**, **JavaScript**, **HTML5** y **CSS3**.
+- 🎓 **Estudiante de Ingeniería de Sistemas** enfocado en el desarrollo Full Stack moderno y bases de datos relacionales.
+- 🎯 **Objetivo actual:** Buscando **prácticas universitarias** para el próximo semestre y abierto a oportunidades laborales como **Desarrollador Junior** o proyectos desafiantes.
+- 🛠️ **Stack principal:** Desarrollo frontend moderno con **Next.js, TypeScript y Tailwind CSS**, backends rápidos con **FastAPI (Python)** y gestión de datos con **PostgreSQL, Supabase y Neon**.
+- 🎮 **Aficiones:** Gamer entusiasta de los videojuegos competitivos/narrativos y apasionado por descubrir nueva música en mis sesiones de código.
 
 ---
 
-### Tecnologías y Herramientas
+### 🚀 Proyectos Destacados (Showcase)
 
-#### Lenguajes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+| Proyecto | Stack Tecnológico | Descripción | Enlaces |
+| :--- | :--- | :--- | :---: |
+| **👟 Catálogo Deportivos Pipe** | `Next.js` `TypeScript` `Tailwind` `Supabase` | E-commerce mobile-first para calzado y streetwear con panel CRUD administrativo y conversión directa a WhatsApp e Instagram. | [Demo](https://deportivos-pipe-catalogo.vercel.app) • [Código](https://github.com/oserrano12/deportivos-pipe-catalogo) |
+| **💰 Gestor de Gastos PWA** | `FastAPI` `PostgreSQL` `JavaScript` `PWA` | Aplicación financiera multiplataforma con motor de cálculo automático de amortización de créditos, cuotas e intereses. | [Código](https://github.com/oserrano12/gestor-gastos) |
+| **🏪 Tienda de Barrio** | `Java` `JavaFX` `PostgreSQL` | Software de gestión y control de inventario de escritorio aplicando Programación Orientada a Objetos y persistencia relacional. | [Código](https://github.com/oserrano12/tienda-barrio) |
+| **☕ Café Artesanal** | `HTML5` `Tailwind CSS` `JavaScript` | Catálogo interactivo responsive enfocado en experiencia de usuario y diseño web moderno de productos regionales. | [Demo](https://cafe-artesanal-app.vercel.app) • [Código](https://github.com/oserrano12/cafe-artesanal-app) |
+
+---
+
+### 🛠️ Stack Tecnológico & Herramientas
+
+<div align="center">
+
+#### Frontend & UI
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-#### Frameworks y Librerías
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+#### Backend & Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-#### Bases de Datos y Servicios Cloud
+#### Bases de Datos, Cloud & Herramientas
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon_Database-00E599?style=flat-square&logo=neon&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
 
 ---
 
-### Proyectos Destacados
+### 📊 Estadísticas de GitHub
 
-| Proyecto | Tecnologías | Descripción | Enlace |
-| :--- | :--- | :--- | :--- |
-| **Catálogo Ropa Deportiva** | Next.js, TypeScript, Tailwind CSS, PostgreSQL | Plataforma web interactiva para catálogo de indumentaria deportiva en desarrollo. | [Repositorio](https://github.com/oserrano12) |
-| **Proyecto Diseño Web Avanzado** | HTML, CSS, JavaScript | Aplicación web enfocada en maquetación estructurada e interfaces interactivas. | [Repositorio](https://github.com/oserrano12) |
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=oserrano12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de GitHub de Oscar Serrano" height="165" />
+<img src="https://streak-stats.demolab.com/?user=oserrano12&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak de Oscar" height="165" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oserrano12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" height="165" />
+
+</div>
 
 ---
 
-### Contacto
+### 💬 Conectemos
 
-- **Discord:** `deadly04`
-- **GitHub:** [oserrano12](https://github.com/oserrano12)
+¿Interesado en mi perfil para **prácticas**, una vacante o colaborar en un proyecto?
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-deadly04-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![GitHub](https://img.shields.io/badge/GitHub-oserrano12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oserrano12)
+
+
+</div>
