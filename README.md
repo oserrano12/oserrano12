@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oscar Serrano 👋
+# Oscar Serrano
 
 <!-- Animación de escritura dinámica -->
 <a href="https://github.com/oserrano12">
