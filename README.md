@@ -4,15 +4,18 @@
 
 <!-- Animación de escritura dinámica -->
 <a href="https://github.com/oserrano12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%F0%9F%8E%93;Desarrollador+Full+Stack+Jr+%F0%9F%92%BB;En+b%C3%BAsqueda+de+Pr%C3%A1cticas+Universitarias+%F0%9F%8E%AF;Apasionado+por+el+Gaming+%26+la+M%C3%BAsica+%F0%9F%8E%AE%F0%9F%8E%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%F0%9F%8E%93;Desarrollador+Web+Full+Stack+Jr+%F0%9F%92%BB;Universitaria+Tecnol%C3%B3gica+de+Santander+(UTS);Next.js+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL" alt="Typing SVG" />
 </a>
 
-
-<!-- Insignias de estado y disponibilidad -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Estado-Buscando%20Pr%C3%A1cticas%20Universitarias-10B981?style=for-the-badge&logo=target&logoColor=white" alt="Prácticas" />
+  <b>Construyendo aplicaciones web funcionales, modernas y orientadas a resolver problemas reales.</b>
+</p>
+
+<!-- Insignias de perfil -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Universidad-UTS%20(Santander)-2563EB?style=for-the-badge&logo=mortarboard&logoColor=white" alt="UTS" />
   <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Colombia-F59E0B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Colombia" />
-  <img src="https://img.shields.io/badge/Enfoque-Full%20Stack%20%26%20SQL-6366F1?style=for-the-badge&logo=codeforces&logoColor=white" alt="Enfoque" />
+  <img src="https://img.shields.io/badge/Enfoque-Full%20Stack%20%26%20Bases%20de%20Datos-6366F1?style=for-the-badge&logo=codeforces&logoColor=white" alt="Enfoque" />
 </p>
 
 </div>
@@ -21,10 +24,10 @@
 
 ### 👨‍💻 Sobre Mí
 
-- 🎓 **Estudiante de Ingeniería de Sistemas** enfocado en el desarrollo Full Stack moderno y bases de datos relacionales.
-- 🎯 **Objetivo actual:** Buscando **prácticas universitarias** para el próximo semestre y abierto a oportunidades laborales como **Desarrollador Junior** o proyectos desafiantes.
-- 🛠️ **Stack principal:** Desarrollo frontend moderno con **Next.js, TypeScript y Tailwind CSS**, backends rápidos con **FastAPI (Python)** y gestión de datos con **PostgreSQL, Supabase y Neon**.
-- 🎮 **Aficiones:** Gamer entusiasta de los videojuegos competitivos/narrativos y apasionado por descubrir nueva música en mis sesiones de código.
+- 🎓 Estudiante de **Ingeniería de Sistemas** en la **Universitaria Tecnológica de Santander (UTS)**.
+- 💻 Enfocado en el desarrollo web Full Stack y el modelado y consumo de bases de datos relacionales.
+- 🛠️ Interesado en arquitecturas limpias, interfaces ágiles con **Next.js / Tailwind CSS**, backends eficientes con **FastAPI (Python)** y persistencia de datos en **PostgreSQL**.
+- 🎧🎮 En mis tiempos libres disfruto escuchar música, jugar videojuegos y explorar nuevas tecnologías o herramientas de desarrollo.
 
 ---
 
@@ -85,14 +88,15 @@
 
 ---
 
-### 💬 Conectemos
+### 💬 Contacto & Conexión
 
-¿Interesado en mi perfil para **prácticas**, una vacante o colaborar en un proyecto?
+¿Tienes alguna consulta, propuesta o te gustaría intercambiar ideas sobre algún proyecto?
 
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-deadly04-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![GitHub](https://img.shields.io/badge/GitHub-oserrano12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oserrano12)
 
+<p><i>💡 "El código limpio siempre parece que fue escrito por alguien a quien le importa."</i></p>
 
 </div>
