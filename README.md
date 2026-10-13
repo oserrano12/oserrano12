@@ -15,7 +15,10 @@
 
 <p align="center">
   <a href="mailto:serranojaimesoscarsteven@hotmail.com">
-    <img src="https://img.shields.io/badge/Contacto_Directo-serranojaimesoscarsteven%40hotmail.com-D97706?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Hotmail-serranojaimesoscarsteven%40hotmail.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Hotmail" />
+  </a>
+  <a href="https://portfolio-personal-oscar-serranos-projects-6943007d.vercel.app">
+    <img src="https://img.shields.io/badge/Portafolio_Web-Ver_Demo_Online-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portafolio Web" />
   </a>
 </p>
 
@@ -27,9 +30,9 @@
 
 - 🎓 Estudiante de **Ingeniería de Sistemas** en las **Unidades Tecnológicas de Santander (UTS)**.
 - 💡 Perfil técnico versátil con sólidos fundamentos en **programación orientada a objetos (Java)**, **desarrollo web (JavaScript / TypeScript / Python)** y **modelado de bases de datos relacionales**.
-- 🛠️ Interés y destreza en infraestructura física y lógica: **diagnóstico de hardware y soporte técnico**, **redes IPv4 / VLSM** y simulación con **Cisco Packet Tracer**.
-- 🚀 Actualmente enfocado en consolidar proyectos prácticos y en búsqueda de oportunidades de **pasantías universitarias, proyectos freelance o roles Jr en tecnología**.
-- 🎧🎮 En mis tiempos libres disfruto escuchar música, el gaming y profundizar en nuevas herramientas del ecosistema open-source.
+- 🛠️ Destreza en infraestructura física y lógica: **diagnóstico de hardware y soporte técnico de PC**, **redes IPv4 / VLSM** y simulación con **Cisco Packet Tracer**.
+- 🚀 Actualmente en búsqueda de oportunidades de **pasantías universitarias, proyectos freelance o roles Jr en tecnología**.
+- 🎧🎮 En mis tiempos libres disfruto escuchar música, los videojuegos y profundizar en nuevas herramientas del ecosistema tecnológico.
 
 ---
 
@@ -37,7 +40,7 @@
 
 | Proyecto | Stack Tecnológico | Descripción | Enlaces |
 | :--- | :--- | :--- | :---: |
-| **🌐 Portafolio Personal** | `React` `TypeScript` `Tailwind` `Vite` | Portafolio interactivo de alto rendimiento, accesible (WCAG 2.2), modo oscuro y arquitectura modular de componentes. | [Código](https://github.com/oserrano12/portafolio-personal) |
+| **🌐 Portafolio Personal** | `React` `TypeScript` `Tailwind` `Vite` | Portafolio web interactivo con shaders WebGL (Dark Veil), componentes modulares, accesibilidad WCAG y 60 FPS. | [Demo](https://portfolio-personal-oscar-serranos-projects-6943007d.vercel.app) • [Código](https://github.com/oserrano12/portfolio-personal) |
 | **👟 Catálogo Deportivos Pipe** | `Next.js` `TypeScript` `Tailwind` `Supabase` | E-commerce mobile-first para calzado y streetwear con panel CRUD administrativo y conversión directa a WhatsApp e Instagram. | [Demo](https://deportivos-pipe-catalogo.vercel.app) • [Código](https://github.com/oserrano12/deportivos-pipe-catalogo) |
 | **💰 Gestor de Gastos PWA** | `FastAPI` `PostgreSQL` `JavaScript` `PWA` | Aplicación financiera multiplataforma con cálculo dinámico de amortización de créditos, cuotas e intereses bancarios. | [Código](https://github.com/oserrano12/gestor-gastos) |
 | **🏪 Tienda de Barrio** | `Java` `JavaFX` `PostgreSQL` | Software de escritorio para inventario y facturación aplicando principios de Programación Orientada a Objetos y persistencia SQL. | [Código](https://github.com/oserrano12/tienda-barrio) |
@@ -72,7 +75,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 #### 🔌 Infraestructura, Redes & Hardware
-![Hardware & Ensamble](https://img.shields.io/badge/Hardware-Diagnóstico_&_PC_Build-555555?style=flat-square&logo=hardware&logoColor=white)
+![Hardware & Ensamble](https://img.shields.io/badge/Hardware-Diagnóstico_&_Soporte_PC-555555?style=flat-square&logo=hardware&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-Simulación_de_Redes-005073?style=flat-square&logo=cisco&logoColor=white)
 ![Subneteo & VLSM](https://img.shields.io/badge/Redes-IPv4_&_VLSM-1E3A8A?style=flat-square&logo=serverfault&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -102,8 +105,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Correo_Electrónico-serranojaimesoscarsteven%40hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serranojaimesoscarsteven@hotmail.com)
+[![Hotmail](https://img.shields.io/badge/Hotmail-serranojaimesoscarsteven%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:serranojaimesoscarsteven@hotmail.com)
 [![Discord](https://img.shields.io/badge/Discord-deadly04-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![GitHub](https://img.shields.io/badge/GitHub-oserrano12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oserrano12)
+[![Portafolio](https://img.shields.io/badge/Portafolio_Web-Visitar_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-personal-oscar-serranos-projects-6943007d.vercel.app)
 
 </div>
