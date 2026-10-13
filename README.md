@@ -7,9 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%F0%9F%8E%93;Desarrollador+Full+Stack+Jr+%F0%9F%92%BB;En+b%C3%BAsqueda+de+Pr%C3%A1cticas+Universitarias+%F0%9F%8E%AF;Apasionado+por+el+Gaming+%26+la+M%C3%BAsica+%F0%9F%8E%AE%F0%9F%8E%A7" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <b>Transformando ideas y lógica en aplicaciones web completas, escalables y orientadas al usuario.</b>
-</p>
 
 <!-- Insignias de estado y disponibilidad -->
 <p align="center">
